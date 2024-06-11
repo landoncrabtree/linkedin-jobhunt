@@ -177,7 +177,7 @@ class EasyApplyBot:
             position = self.positions[random.randint(0, len(self.positions) - 1)]
             location = self.locations[random.randint(0, len(self.locations) - 1)]
             self.positions.remove(position)  # Remove searched position
-            #self.locations.remove(location)  # Remove searched location
+            self.locations.remove(location)  # Remove searched location
             combo = (position, location)
             if combo not in combos:
                 combos.append(combo)
