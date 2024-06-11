@@ -1,0 +1,5 @@
+config.yaml
+output.csv
+cookies.pkl
+logs/
+venv/

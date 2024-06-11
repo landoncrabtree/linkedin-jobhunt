@@ -1,0 +1,43 @@
+username: email@email.com
+password: password
+webhook: https://discord.com/api/webhooks/1234567890/abcdefghijklmnopqrstuvwxyz
+
+# Positions to search for
+positions:
+- Finance Intern
+- Investment Banking Intern
+- Investment Banking Summer Analyst
+- Financial Advisory Intern
+- Financial Analyst Intern
+- Marketing Intern
+- Business Development Intern
+- Accounting Intern
+
+# Locations to search for
+# You can use 'Remote' to search for remote positions
+locations:
+- USA
+
+blacklistCompanies:
+- WayUp
+
+blackListTitles:
+- SkillBridge
+- Skill Bridge
+
+keywords:
+- excel
+- invest
+- sales
+- budget
+- analysis
+- analytical
+- stock
+- asset management
+- risk management
+- portfolio
+- equity
+- regulations
+- equity
+- capital
+
